@@ -1,0 +1,20 @@
+# Intellij
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+
+.idea
+target
+.settings
+.classpath
+.project
+*.DS_Store
+c:/
+Users/
+
+sampleMaven.iml
